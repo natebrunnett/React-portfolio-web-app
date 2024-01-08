@@ -3,3 +3,10 @@ code {
     monospace;
 }
 
+@font-face {
+  font-family: "VintageKing";
+  src: local("VintageKing"),
+   url("./media/fonts/VintageKing.ttf") format("truetype");
+  font-weight: bold;
+ }
+
